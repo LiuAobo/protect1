@@ -1,0 +1,3 @@
+include ':newmodule'
+include ':app'
+rootProject.name = "helloWorld"
